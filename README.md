@@ -5,10 +5,14 @@ Configure your ***APRS beacon settings*** entirely through your browser — no h
 <img src="https://github.com/user-attachments/assets/092c29cf-3f0c-4288-83ee-a94c555be458" alt="prototype" width=25% style="float:left"></p>
 
 ---
-### Prototype
+### <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="clock" width="6%">  Prototype 
+
 ##### (Wx station As "minimalsitic" As Possible)
 
 <img src="https://github.com/user-attachments/assets/a59915d9-7893-41ea-8c82-5707780325c4" alt="prototype" width="400" height="300" style="float:left"></p>
+
+:point_right:  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `The current firmware is under testing by few HAMs , Please contact me if you require the `***bin file***` . `   :point_left:
+
 
 ---
 
@@ -59,7 +63,7 @@ These are **pre-integrated** in the firmware. You do **not** need to manage libr
 - [ ] Advanced beacon scheduling (time-of-day, speed-based, etc.)
 ---
 
-## 🔬 $\color{#0321fb}{Current~Status!}$
+## 🔬 $\color{#fb8a03}{Current~Status!}$
 - ✅ **Beta testing in progress** with HAM operators.
  
 - 📦 **Current firmware version includes:**
@@ -154,11 +158,14 @@ cd APRS-WebConfig-D1Mini
 <!--
 
 cheat sheet
-https://gist.github.com/rxaviers/7360908
+https://gist.github.com/rxaviers/7360908  *** emoji
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 $\color{#FF0000}{Current~Status!}$
 
 #### $\textcolor{blue}{\textsf{Color didint work .}}$
+
+https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file  *** gif
 -->
