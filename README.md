@@ -1,3 +1,5 @@
+##### WORK IN PROGRESS . . .
+
 # 📡  APRS_Wx_v1 ( Wemos D1 mini version) Web-Configurable
 
 Configure your ***APRS beacon settings*** entirely through your browser — no hardcoding, no sketch modifications, and absolutely no dependency nightmares. :trollface:
