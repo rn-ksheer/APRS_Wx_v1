@@ -11,7 +11,7 @@ Configure your ***APRS beacon settings*** entirely through your browser — no h
 
 <img src="https://github.com/user-attachments/assets/a59915d9-7893-41ea-8c82-5707780325c4" alt="prototype" width="400" height="300" style="float:left"></p>
 
-:point_right:  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `The current firmware is under testing by few HAMs , Please contact me if you require the `***bin file***` . `   :point_left:
+:point_right:  ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Current firmware is under testing by few HAMs , Please contact me if you require the `***bin file***` . `   :point_left:
 
 
 ---
@@ -82,7 +82,7 @@ nodemcu-flasher download <a href="https://drive.google.com/drive/folders/1Jr-8lz
 <img src="https://github.com/user-attachments/assets/ab9ebb3e-4a45-4d9a-bdc4-5515c6a56e17" alt="pcb" width="400" height="300" style="float:middle">
       <img src="https://github.com/user-attachments/assets/3069b352-b3dd-4e21-9c63-c1d386fa0aac" alt="pcb" width="400" height="300" style="float:middle">
 
-> ### $\textcolor{#fc0404}{\textsf{  PCB is under fabrication ! }}$
+> ### $\textcolor{#fc0404}{\textsf{  PCB is under fabrication ! , Schematic AND other details will be updated once PCB testing is done.  }}$
 
 
 | Supported Senors |
