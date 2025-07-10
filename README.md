@@ -4,7 +4,8 @@
 
 Configure your ***APRS beacon settings*** entirely through your browser — no hardcoding, no sketch modifications, and absolutely no dependency nightmares. :trollface:
 
-<img src="https://github.com/user-attachments/assets/092c29cf-3f0c-4288-83ee-a94c555be458" alt="prototype" width=25% style="float:left"></p>
+<img src="https://github.com/user-attachments/assets/66c5de3c-2fb3-4ce3-96a6-1faa1181bcd0" alt="prototype" width=28% style="float:left"></p>
+
 
 ---
 ### <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="clock" width="6%">  Prototype 
@@ -81,10 +82,12 @@ nodemcu-flasher download <a href="https://drive.google.com/drive/folders/1Jr-8lz
 
 
 ### sample PCB
-<img src="https://github.com/user-attachments/assets/ab9ebb3e-4a45-4d9a-bdc4-5515c6a56e17" alt="pcb" width="400" height="300" style="float:middle">
-      <img src="https://github.com/user-attachments/assets/3069b352-b3dd-4e21-9c63-c1d386fa0aac" alt="pcb" width="400" height="300" style="float:middle">
+<img src="https://github.com/user-attachments/assets/ab9ebb3e-4a45-4d9a-bdc4-5515c6a56e17" alt="pcb1" width="400" height="300" style="float:middle">
+      <img src="https://github.com/user-attachments/assets/3069b352-b3dd-4e21-9c63-c1d386fa0aac" alt="pcb2" width="400" height="450" style="float:middle">
 
-> ### $\textcolor{#fc0404}{\textsf{  PCB is under fabrication ! , Schematic AND other details will be updated once PCB testing is done.  }}$
+> ### $\textcolor{#fc0404}{\textsf{  1st batch of PCB received, Schematic and other details will be updated once PCB testing is done.  }}$
+ 
+<img src="https://github.com/user-attachments/assets/8c59b9ad-8f9f-4441-ab93-16b8d5285eac" alt="pcb3" width=85% style="float:centre"></p>
 
 
 | Supported Senors |
@@ -105,6 +108,9 @@ nodemcu-flasher download <a href="https://drive.google.com/drive/folders/1Jr-8lz
 | DHT11   | 3.1.0 | $\color{#039d05}{&#10003;}$  |	
 | DHT11/NTC |	
 | DHT11/NTC/OLED  |
+| DHT11/OLED 1.3"  |3.1.3 | $\color{#039d05}{&#10003;}$  |	
+| DHT11/OLED 0.96"  |3.1.4 | $\color{#039d05}{&#10003;}$  |	
+| DHT11 Dual stn   | 3.1.5 | NA  |	
 | DHT22  |		
 | DHT22/NTC |	
 | DHT22/OLED  |	
@@ -115,7 +121,8 @@ nodemcu-flasher download <a href="https://drive.google.com/drive/folders/1Jr-8lz
 | DHT11/BMP280  |	
 | DHT11/BMP280	OLED  |
 | BME280  | 	 3.5.0 | $\color{#039d05}{&#10003;}$  |	
-| BME280/OLED  |	
+| BME280/OLED 1.3"  |	3.5.1 | $\color{#039d05}{&#10003;}$  |	
+| BME280/OLED 0.96"  |	3.5.2 | $\color{#039d05}{&#10003;}$  |	
 | DHT11/GPS |	
 | DHT11/GPS/OLED  |
 | DHT22/GPS/OLED  |
