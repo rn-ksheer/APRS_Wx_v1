@@ -103,6 +103,10 @@ nodemcu-flasher download <a href="https://drive.google.com/drive/folders/1Jr-8lz
 | NTC  |
 | LDR  |
 
+>**Note:** ➡️BMP280 - Temperature Pressure altitude <br>
+           ➡️BME280 - Temperature Pressure altitude humidity
+
+
 | possible combinations | firmware version | Firmware available |
 | :---:  |     :---:        | :---:              |
 | DHT11   | 3.1.0 | $\color{#039d05}{&#10003;}$  |	
