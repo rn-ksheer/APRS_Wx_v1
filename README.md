@@ -103,9 +103,11 @@ nodemcu-flasher download <a href="https://drive.google.com/drive/folders/1Jr-8lz
 | NTC  |
 | LDR  |
 
->**Note:** ➡️BMP280 - Temperature Pressure altitude <br>
-           ➡️BME280 - Temperature Pressure altitude humidity
-
+>**Note:** <br>
+&#10687; ➡️BMP280 - Temperature Pressure altitude <br>
+&#10687; ➡️BME280 - Temperature Pressure altitude humidity <br>
+&#10687; Both BMP280 and BME280 modules are available in 4-pin and 6-pin versions. They often look identical and cannot be visually distinguished. <br>
+&#10687; To avoid compatibility issues or errors, always purchase from a reliable and reputable seller.
 
 | possible combinations | firmware version | Firmware available |
 | :---:  |     :---:        | :---:              |
